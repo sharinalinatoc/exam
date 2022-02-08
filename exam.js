@@ -1,6 +1,6 @@
+//Answer Code for question # 3
+
 let number = 5;
-
-
 function factorial(number){
   let answer = 1;
   if (number == 0 || number == 1){
