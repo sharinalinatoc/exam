@@ -1,4 +1,4 @@
-//Answer Code for question # 3
+//Answer Code for question # 1
 
 let number = 5;
 function factorial(number){
